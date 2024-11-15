@@ -1,0 +1,2 @@
+# chrome_update_ps
+chrome便携版制作和更新powershell脚本
